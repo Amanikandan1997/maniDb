@@ -1,0 +1,38 @@
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+  background-color: black;
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url('https://assets.nflxext.com/ffe/siteui/vlv3/03ad76d1-e184-4d99-ae7d-708672fa1ac2/web/IN-en-20241111-TRIFECTA-perspective_149877ab-fcbd-4e4f-a885-8d6174a1ee81_large.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  backdrop-filter: blur(5px); /* This adds the blur effect */
+  color: azure;
+}
+#card1{
+  background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+display:flex ;
+flex-direction:column;
+justify-content: center;
+align-items: center;
+border: 2px solid rgba( 255, 255, 255, 0.18 )
+color
+}
+.card{
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow:rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 2px solid rgba(223, 7, 7, 0);
+  color: #fffdfd;
+  
+ 
+  
+}
