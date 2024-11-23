@@ -2,7 +2,9 @@
 
 <h1>IMDB Clone ManiUki Db
 using React Js ,TMDB Api
-2022-2024</h1>
+</h1>
+<p>"This website is accessible using a VPN, as the TMDB API is banned in India. Please use a VPN, then click the link."</p>
+<a href="https://amanikandan1997.github.io/maniDb/">Click the link </a>
 
 <div style="display:'flex'; justify-content: 'space-between';">
   <img src="./mdb.png" />
